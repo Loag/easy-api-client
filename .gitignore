@@ -1,0 +1,5 @@
+# stupid file
+.DS_STORE
+
+# deps
+node_modules
